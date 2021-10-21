@@ -1,6 +1,6 @@
 sudo: required
 services:
-  - docker:
+  - docker
 env:
   global:
     - CLOUDSDK_CORE_DISABLE_PROMPTS=1
